@@ -1,4 +1,4 @@
-# FREE FLUTTER QUIZ APP WITH GETX STATE-MANAGEMENT
+# Gurukulam QUIZ APP
 
 This is free code for a flutter quiz app. all you need is just set up firebase for this project.
 
