@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:880795176381:android:a3cf94c80b82dd74d456d4",
         "android_client_info": {
-          "package_name": "com.example.quizzledemo"
+          "package_name": "com.gurukulams"
         }
       },
       "oauth_client": [
@@ -34,7 +34,7 @@
               "client_id": "880795176381-12dcc78k2f841jinnhgje12ue09m93st.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.quizzledemo"
+                "bundle_id": "com.gurukulams"
               }
             }
           ]
